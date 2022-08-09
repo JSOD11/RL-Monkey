@@ -15,3 +15,5 @@ The results for monkey 1 and monkey 2 (trained in stub_1.py and stub_2.py, respe
 In an attempt to improve monkey 1, I created monkey 2. This second monkey is given a more informative state value which includes not only information about its height and distance to the next tree but also information about its current velocity and the effects of gravity (gravity can change each round of the game).
 
 Looking at the two graphs, it seems clear to me that monkey 2 is able to perform better than monkey 1 given this additional information, as monkey 2 is able to reach a peak score of over 1400 and many scores around 500 or higher while monkey 1 only cracks a score of 500 one single time.
+
+If you are interested, turn off the graphics and run stub_1.py and stub_2.py. The graphs will appear and we can see how the monkeys do. If I had to pick one, I'd go with monkey 2!
